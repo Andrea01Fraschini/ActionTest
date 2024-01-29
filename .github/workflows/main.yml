@@ -1,0 +1,12 @@
+on: [push]
+jobs:
+  callCKBAPI:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Call CKB API
+      uses: dkershner6/post-api-call-action@v2
+      with:
+        url: ${{ secrets.API_URL }}
+        data: "{\"command\": \"publish\"}"
+        headers: "{\"Authorization\": \"Bearer ${{ secrets.API_KEY }}\"}"
+        params: "{\"content\": \"Test Content\"}"
