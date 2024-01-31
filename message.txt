@@ -1,1 +1,1 @@
-IUYFGHJKLYUG JKUGOGH IP UH POHGYUIO GOIYUG UIYG
+data: "{\"command\": \"publish\"}"data: "{\"command\": \"publish\"}"data: "{\"command\": \"publish\"}"data: "{\"command\": \"publish\"}"
