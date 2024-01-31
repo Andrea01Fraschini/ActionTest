@@ -6,5 +6,5 @@ jobs:
     - name: Call CKB API
       uses: dkershner6/post-api-call-action@v2
       with:
-        url: https://ckbapplicationserver.onrender.com/demo
+        url: https://ckbapplicationserver.onrender.com/demo/push
         headers: "{\"Authorization\": \"Bearer ${{ secrets.API_KEY }}\"}"
