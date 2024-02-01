@@ -1,2 +1,2 @@
 #!/bin/bash
-maven clean install -DskipTests
+mvn clean install -DskipTests
