@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="added niente" />
+    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="ci si prova">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProgramTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,10 +53,11 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ProgramTest.add">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program" />
+  <component name="RunManager" selected="JAR Application.ActionTest-1.0-SNAPSHOT-tests.jar">
+    <configuration name="All in ActionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ActionTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,16 +81,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ActionTest-1.0-SNAPSHOT-tests.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/ActionTest-1.0-SNAPSHOT-tests.jar" />
+      <method v="2" />
+    </configuration>
     <configuration name="ActionTest-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/target/ActionTest-1.0-SNAPSHOT.jar" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.ActionTest-1.0-SNAPSHOT-tests.jar" />
+        <item itemvalue="JUnit.All in ActionTest" />
         <item itemvalue="JUnit.ProgramTest.add" />
         <item itemvalue="JUnit.ProgramTest" />
         <item itemvalue="JAR Application.ActionTest-1.0-SNAPSHOT.jar" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706832784294</updated>
       <workItem from="1706832785529" duration="2198000" />
-      <workItem from="1706881974447" duration="1166000" />
+      <workItem from="1706881974447" duration="2270000" />
     </task>
     <task id="LOCAL-00001" summary="fixed">
       <created>1706832963058</created>
@@ -141,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706882754204</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ci si prova">
+      <created>1706883304056</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706883304056</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ci si prova">
+      <created>1706883403505</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706883403505</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +179,7 @@
     <MESSAGE value="moved test class" />
     <MESSAGE value="added test" />
     <MESSAGE value="added niente" />
-    <option name="LAST_COMMIT_MESSAGE" value="added niente" />
+    <MESSAGE value="ci si prova" />
+    <option name="LAST_COMMIT_MESSAGE" value="ci si prova" />
   </component>
 </project>
