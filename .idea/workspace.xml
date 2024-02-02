@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="packaggeato" />
+    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="pa????">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="JUnit.ProgramTest">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="ActionTest" />
@@ -89,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program" />
         <item itemvalue="JUnit.ProgramTest" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="JUnit.ProgramTest.add" />
         <item itemvalue="JAR Application.ActionTest-1.0-SNAPSHOT-tests.jar" />
         <item itemvalue="JUnit.All in ActionTest" />
@@ -110,7 +112,7 @@
       <workItem from="1706893000529" duration="1634000" />
       <workItem from="1706907218719" duration="225000" />
       <workItem from="1706907631603" duration="26000" />
-      <workItem from="1706907699508" duration="951000" />
+      <workItem from="1706907699508" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="fixed">
       <created>1706832963058</created>
@@ -266,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706908574413</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="pa????">
+      <created>1706908870011</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1706908870011</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +314,7 @@
     <MESSAGE value="O la va o la va" />
     <MESSAGE value="spetta un attimo" />
     <MESSAGE value="packaggeato" />
-    <option name="LAST_COMMIT_MESSAGE" value="packaggeato" />
+    <MESSAGE value="pa????" />
+    <option name="LAST_COMMIT_MESSAGE" value="pa????" />
   </component>
 </project>

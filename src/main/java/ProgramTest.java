@@ -7,7 +7,7 @@ class ProgramTest {
 
     @Test
     void add() {
-        assertEquals(6, program.add(2, -8));
+        assertEquals(-6, program.add(2, -8));
     }
 
     @Test
