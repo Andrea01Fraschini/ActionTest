@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class ProgramTest {
-    private final Program program = new Program();
+    private static final Program program = new Program();
 
     @Test
     void add() {
