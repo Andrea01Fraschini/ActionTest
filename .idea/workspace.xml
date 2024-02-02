@@ -51,9 +51,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ProgramTest">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program" />
+      <option name="MAIN_CLASS_NAME" value="Program.Program" />
       <module name="ActionTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,8 +69,8 @@
     </configuration>
     <configuration name="ProgramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ActionTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProgramTest" />
+      <option name="PACKAGE_NAME" value="Program" />
+      <option name="MAIN_CLASS_NAME" value="Program.ProgramTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,8 +78,8 @@
     </configuration>
     <configuration name="ProgramTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ActionTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProgramTest" />
+      <option name="PACKAGE_NAME" value="Program" />
+      <option name="MAIN_CLASS_NAME" value="Program.ProgramTest" />
       <option name="METHOD_NAME" value="add" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -92,8 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProgramTest" />
         <item itemvalue="Application.Program" />
+        <item itemvalue="JUnit.ProgramTest" />
         <item itemvalue="JUnit.ProgramTest.add" />
         <item itemvalue="JAR Application.ActionTest-1.0-SNAPSHOT-tests.jar" />
         <item itemvalue="JUnit.All in ActionTest" />

@@ -32,7 +32,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>Program</mainClass>
+                            <mainClass>Program.Program</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
