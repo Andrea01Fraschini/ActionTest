@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="ci si prova 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="ci si prova 420">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706832784294</updated>
       <workItem from="1706832785529" duration="2198000" />
-      <workItem from="1706881974447" duration="3585000" />
+      <workItem from="1706881974447" duration="3881000" />
     </task>
     <task id="LOCAL-00001" summary="fixed">
       <created>1706832963058</created>
@@ -177,7 +178,28 @@
       <option name="project" value="LOCAL" />
       <updated>1706884669310</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ci si prova 34">
+      <created>1706886140989</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706886140989</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ci si prova 69">
+      <created>1706886289973</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706886289973</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ci si prova 420">
+      <created>1706886362696</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706886362696</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +226,9 @@
     <MESSAGE value="ci si prova" />
     <MESSAGE value="ci si prova 2" />
     <MESSAGE value="ci si prova 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ci si prova 3" />
+    <MESSAGE value="ci si prova 34" />
+    <MESSAGE value="ci si prova 69" />
+    <MESSAGE value="ci si prova 420" />
+    <option name="LAST_COMMIT_MESSAGE" value="ci si prova 420" />
   </component>
 </project>
