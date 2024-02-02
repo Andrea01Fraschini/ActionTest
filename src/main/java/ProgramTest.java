@@ -8,4 +8,9 @@ class ProgramTest {
         assertEquals(-6, Program.add(2, -8));
     }
 
+    @Test
+    void shouldPass() {
+        assertEquals(-6, -6);
+    }
+
 }
