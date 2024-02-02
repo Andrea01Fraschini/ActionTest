@@ -8,7 +8,7 @@ public class Program {
         System.out.println("Hello world!");
     }
 
-    public static int add(int a, int b){
+    public int add(int a, int b){
         return a+b;
     }
 

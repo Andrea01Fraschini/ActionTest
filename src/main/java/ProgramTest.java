@@ -3,17 +3,16 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class ProgramTest {
-   // private static final Program program = new Program();
-    private int aiuto = Program.testicolo;
+    private static final Program program = new Program();
+
     @Test
     void add() {
-        System.out.println(aiuto);
-        assertEquals(-6, Program.add(2, -8));
+        assertEquals(-6, program.add(2, -8));
     }
 
     @Test
     void add2() {
-        assertEquals(-6, Program.add(2, -8));
+        assertEquals(489, program.add(69, 420));
     }
 
     @Test
