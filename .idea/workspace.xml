@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="ci si prova 2" />
+    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="ci si prova 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706832784294</updated>
       <workItem from="1706832785529" duration="2198000" />
-      <workItem from="1706881974447" duration="2622000" />
+      <workItem from="1706881974447" duration="3585000" />
     </task>
     <task id="LOCAL-00001" summary="fixed">
       <created>1706832963058</created>
@@ -168,11 +170,29 @@
       <option name="project" value="LOCAL" />
       <updated>1706884394366</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ci si prova 3">
+      <created>1706884669310</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706884669310</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed" />
@@ -183,6 +203,7 @@
     <MESSAGE value="added niente" />
     <MESSAGE value="ci si prova" />
     <MESSAGE value="ci si prova 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ci si prova 2" />
+    <MESSAGE value="ci si prova 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ci si prova 3" />
   </component>
 </project>
