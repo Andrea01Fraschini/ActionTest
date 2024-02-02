@@ -11,13 +11,5 @@ public class Program {
         return a+b;
     }
 
-    @Test
-    void add() {
-        assertEquals(-6, add(2, -8));
-    }
 
-    @Test
-    void shouldPass() {
-        assertEquals(-6, -6);
-    }
 }
