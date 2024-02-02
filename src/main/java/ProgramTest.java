@@ -6,6 +6,7 @@ class ProgramTest {
     //private static final Program program = new Program();
     @Test
     void add() {
+        System.out.println(Program.testicolo);
         assertEquals(-6, Program.add(2, -8));
     }
 
