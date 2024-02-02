@@ -7,7 +7,7 @@ public class Program {
         System.out.println("Hello world!");
     }
 
-    public int add(int a, int b){
+    public static int add(int a, int b){
         return a+b;
     }
 
