@@ -50,7 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR Application.ActionTest-1.0-SNAPSHOT-tests.jar">
+  <component name="RunManager" selected="JUnit.ProgramTest">
     <configuration name="All in ActionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ActionTest" />
       <option name="PACKAGE_NAME" value="" />
@@ -88,10 +88,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProgramTest" />
         <item itemvalue="JAR Application.ActionTest-1.0-SNAPSHOT-tests.jar" />
         <item itemvalue="JUnit.All in ActionTest" />
         <item itemvalue="JUnit.ProgramTest.add" />
-        <item itemvalue="JUnit.ProgramTest" />
         <item itemvalue="JAR Application.ActionTest-1.0-SNAPSHOT.jar" />
       </list>
     </recent_temporary>
