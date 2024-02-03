@@ -7,7 +7,13 @@ class ProgramTest {
 
     @Test
     void add() {
-        assertEquals(6, program.add(2, -8));
+        try{
+            throw new RuntimeException("MESSAGGIO");
+        }catch (Exception e){
+
+        }
+
+        assertEquals(-6, program.add(2, -8));
     }
 
     @Test
