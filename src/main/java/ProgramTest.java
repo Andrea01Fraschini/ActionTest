@@ -6,14 +6,14 @@ class ProgramTest {
     private static final Program program = new Program();
 
     @Test
-    void add_SHOULD_FAIL() {
+    void add_SHOULD_PASS() {
         try{
             throw new RuntimeException("MESSAGGIO");
         }catch (Exception e){
 
         }
 
-        assertEquals(6, program.add(2, -8));
+        assertEquals(-6, program.add(2, -8));
     }
 
     @Test
