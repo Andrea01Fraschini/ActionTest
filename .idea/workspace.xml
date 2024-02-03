@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="Oopsie">
+    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="Fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ProgramTest.add">
+  <component name="RunManager" selected="JUnit.ProgramTest">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="ActionTest" />
@@ -92,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProgramTest.add" />
         <item itemvalue="JUnit.ProgramTest" />
+        <item itemvalue="JUnit.ProgramTest.add" />
         <item itemvalue="Application.Program" />
         <item itemvalue="JAR Application.ActionTest-1.0-SNAPSHOT-tests.jar" />
         <item itemvalue="JUnit.All in ActionTest" />
@@ -117,7 +116,8 @@
       <workItem from="1706915060745" duration="371000" />
       <workItem from="1706915617352" duration="1612000" />
       <workItem from="1706920477081" duration="1127000" />
-      <workItem from="1706957468937" duration="1146000" />
+      <workItem from="1706957468937" duration="1659000" />
+      <workItem from="1706971725514" duration="1310000" />
     </task>
     <task id="LOCAL-00001" summary="fixed">
       <created>1706832963058</created>
@@ -322,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706958016246</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Fix">
+      <created>1706969761925</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1706969761925</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,7 +347,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed 2" />
     <MESSAGE value="fixed 3" />
     <MESSAGE value="moved test class" />
     <MESSAGE value="added test" />
@@ -365,6 +371,7 @@
     <MESSAGE value="checazzo2" />
     <MESSAGE value="Prova Finale" />
     <MESSAGE value="Oopsie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oopsie" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
   </component>
 </project>
