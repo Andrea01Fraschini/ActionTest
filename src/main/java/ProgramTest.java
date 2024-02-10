@@ -10,15 +10,15 @@ class ProgramTest {
         try{
             throw new RuntimeException("MESSAGGIO");
         }catch (Exception e){
-
+            // Uncatched exception to lower the static analysis score
         }
 
         assertEquals(-6, program.add(2, -8));
     }
 
     @Test
-    void add2_SHOULD_PASS() {
-        assertEquals(489, program.add(69, 420));
+    void add2_SHOULD_FAIL() {
+        assertEquals(666, program.add(69, 420));
     }
 
     @Test
