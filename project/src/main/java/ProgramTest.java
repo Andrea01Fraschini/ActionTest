@@ -10,7 +10,7 @@ class ProgramTest {
         try{
             throw new RuntimeException("MESSAGGIO");
         }catch (Exception e){
-            // Uncatched exception to lower the static analysis score
+            // Uncatched exception to lower the static analysis scor
         }
 
         assertEquals(-6, program.add(2, -8));
